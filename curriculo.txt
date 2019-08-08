@@ -1,0 +1,33 @@
+// Ettore Oelfeld Rossatto
+// ettorerossatto@gmail.com
+// (13) 9-9726-5710
+
+    Olá meu nome é Ettore tenho 27 anos, trabalhei desde os 15 anos na área de construção civil
+Cursei técnico em edificações, Engenharia Civil (04 anos), Arquitetura (01 ano).
+    Trabalhei 
+
+
+Análise e Desenvolvimento de Sistemas // Cursando
+
+Autocad // Tenho conhecimento e prática avançada em AutoCad que produz imagens vetorizadas 
+
+MatLab // Estudei 72 horas de MatLab na faculdade de Engenharia civil em 2012 
+
+Ruby // Estudei Ruby pelo codecademy.com 
+
+Python // Estudei Python no cursoemvideo.com 
+
+C // Estudo C pela Fatec 
+
+Arduino // Estudo Arduino pela Fatec 
+
+JavaScript // Estudo JavaScript pelo alura.com.br 
+
+HTML // Estudo HTML pelo alura.com.br 
+
+CSS // Estudo CSS pelo alura.com.br 
+
+Git // Fiz um curso de Git pelo alura.com.br 
+
+Angular // Estudo Angular pelo alura.com.br 
+
