@@ -1,4 +1,4 @@
-// Ettore Oelfeld Rossatto
+﻿// Ettore Oelfeld Rossatto
 // ettorerossatto@gmail.com
 // (13) 9-9726-5710
 
@@ -30,4 +30,7 @@ CSS // Estudo CSS pelo alura.com.br
 Git // Fiz um curso de Git pelo alura.com.br 
 
 Angular // Estudo Angular pelo alura.com.br 
+
+
+teste teste
 
